@@ -1,0 +1,15 @@
+feature,area,priority,original,clone,notes
+Snake Skill Tree,Gamification,must,yes,no,Duo-style visual progression path
+Daily Streaks,Gamification,must,yes,no,Daily retention and habit-building loop
+Hearts / Lives System,Gamification,must,yes,no,Duo-style error limiting mechanic
+Stroke Order Trainer,Mandarin,must,yes,yes,Implemented basic canvas tracing component
+Tone Training,Mandarin,must,yes,yes,Implemented basic Web Audio pitch visualization component
+Pinyin Breakdown,Mandarin,must,yes,yes,Implemented syllable builder component with initials/finals/tones
+Micro-Rewards & Celebrations,Gamification,should,yes,no,XP and confetti feedback loop
+Character Spaced Repetition (SRS),Mandarin,should,yes,no,HelloChinese-style review module
+Heart Refill Timer,Gamification,should,yes,no,Automatic regeneration of hearts
+Tone Sandhi Rules,Mandarin,should,yes,no,Contextual tone transformation explainer
+Leagues / Leaderboards,Gamification,could,yes,no,Competitive weekly tiers
+Authentic Dialogue Video,Mandarin,could,yes,skip,High resource cost for video production
+Proprietary Speech Evaluator,Mandarin,could,yes,skip,Requires deep learning infra (use Web Audio)
+Social Feed / Friends,Gamification,could,yes,skip,Secondary to core learning loop

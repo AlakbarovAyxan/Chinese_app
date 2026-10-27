@@ -1,0 +1,200 @@
+{
+  ".claude/settings.local.json": {
+    "mtime": 1792306201.4948473,
+    "seen": 1792398559.5792792,
+    "ast_hash": "8f6cc0fe6768d6a6ae5565790e4ea057",
+    "semantic_hash": "8f6cc0fe6768d6a6ae5565790e4ea057"
+  },
+  "eslint.config.js": {
+    "mtime": 1792080680.1211905,
+    "seen": 1792398559.5792837,
+    "ast_hash": "0355276bc79439afe3c53e3a2470ca1e",
+    "semantic_hash": "0355276bc79439afe3c53e3a2470ca1e"
+  },
+  "package.json": {
+    "mtime": 1792321990.6183145,
+    "seen": 1792398559.579286,
+    "ast_hash": "3a9592147913a4d65ab5fba1c9849c39",
+    "semantic_hash": "3a9592147913a4d65ab5fba1c9849c39"
+  },
+  "postcss.config.js": {
+    "mtime": 1792231198.21956,
+    "seen": 1792398559.579287,
+    "ast_hash": "ef3ba2a81ba19f8ea5ddf625521e96f0",
+    "semantic_hash": "ef3ba2a81ba19f8ea5ddf625521e96f0"
+  },
+  "replica/components/HanziCanvas.tsx": {
+    "mtime": 1792316884.3173642,
+    "seen": 1792398559.5792882,
+    "ast_hash": "8b9d5a57a91c8f723b3a7431dfb4d045",
+    "semantic_hash": "8b9d5a57a91c8f723b3a7431dfb4d045"
+  },
+  "replica/components/LessonController.tsx": {
+    "mtime": 1792316255.0334709,
+    "seen": 1792398559.5792892,
+    "ast_hash": "5b6f256e81f71e7fcabc2b53fe92c130",
+    "semantic_hash": "5b6f256e81f71e7fcabc2b53fe92c130"
+  },
+  "replica/components/PathNavigator.tsx": {
+    "mtime": 1792325002.351138,
+    "seen": 1792398559.5792902,
+    "ast_hash": "4475921e49a3165c2cc4e1876ebe4353",
+    "semantic_hash": "4475921e49a3165c2cc4e1876ebe4353"
+  },
+  "replica/components/PinyinBuilder.tsx": {
+    "mtime": 1792320910.1808872,
+    "seen": 1792398559.5792913,
+    "ast_hash": "e0ed174c1288ccb332370845b7fdf22f",
+    "semantic_hash": "e0ed174c1288ccb332370845b7fdf22f"
+  },
+  "replica/components/PitchVisualizer.tsx": {
+    "mtime": 1792317980.6102383,
+    "seen": 1792398559.5792928,
+    "ast_hash": "c0c887c6c6b28fc0da8d6d0c59b71890",
+    "semantic_hash": "c0c887c6c6b28fc0da8d6d0c59b71890"
+  },
+  "replica/hooks/useGamification.ts": {
+    "mtime": 1792324882.453146,
+    "seen": 1792398559.5792937,
+    "ast_hash": "ab4234b9493775d8483a89e96c397a89",
+    "semantic_hash": "ab4234b9493775d8483a89e96c397a89"
+  },
+  "replica/hooks/useProgress.ts": {
+    "mtime": 1792322524.7799654,
+    "seen": 1792398559.579295,
+    "ast_hash": "fb4bbaee24f3e19ab0e7de4cf7ec4f5e",
+    "semantic_hash": "fb4bbaee24f3e19ab0e7de4cf7ec4f5e"
+  },
+  "replica/hooks/useStrokeTrainer.ts": {
+    "mtime": 1792316986.4079156,
+    "seen": 1792398559.579296,
+    "ast_hash": "10a9285350ef8ce5fed6f8e084a62306",
+    "semantic_hash": "10a9285350ef8ce5fed6f8e084a62306"
+  },
+  "replica/hooks/useUserSync.ts": {
+    "mtime": 1792322592.7008338,
+    "seen": 1792398559.579297,
+    "ast_hash": "c7ddc465c494d15a18a9c24f3f4866e6",
+    "semantic_hash": "c7ddc465c494d15a18a9c24f3f4866e6"
+  },
+  "replica/test-supabase.ts": {
+    "mtime": 1792326461.98794,
+    "seen": 1792398559.579298,
+    "ast_hash": "b5cc127d869842504230af74f91a456c",
+    "semantic_hash": "b5cc127d869842504230af74f91a456c"
+  },
+  "src/App.tsx": {
+    "mtime": 1792341563.2550588,
+    "seen": 1792398559.579299,
+    "ast_hash": "41372a3a0e3364cbc5f0ba5c61b0f07d",
+    "semantic_hash": "41372a3a0e3364cbc5f0ba5c61b0f07d"
+  },
+  "src/components/CharacterReviewScreen.tsx": {
+    "mtime": 1792305204.802065,
+    "seen": 1792398559.5793004,
+    "ast_hash": "4f4bb01c462954332e133b62a18bbd87",
+    "semantic_hash": "4f4bb01c462954332e133b62a18bbd87"
+  },
+  "src/components/HanziCanvas.tsx": {
+    "mtime": 1792340239.7787535,
+    "seen": 1792398559.5793014,
+    "ast_hash": "bc6f10667dc05b213716ed1f903a2486",
+    "semantic_hash": "bc6f10667dc05b213716ed1f903a2486"
+  },
+  "src/components/LessonScreen.tsx": {
+    "mtime": 1792234278.0340345,
+    "seen": 1792398559.579302,
+    "ast_hash": "ea523c5d5636bcb758dc281cfb49c259",
+    "semantic_hash": "ea523c5d5636bcb758dc281cfb49c259"
+  },
+  "src/components/PathNavigator.tsx": {
+    "mtime": 1792340617.419982,
+    "seen": 1792398559.5793033,
+    "ast_hash": "32890abc50d3430a29b2f578c477102f",
+    "semantic_hash": "32890abc50d3430a29b2f578c477102f"
+  },
+  "src/components/PinyinBuilder.tsx": {
+    "mtime": 1792340841.9053078,
+    "seen": 1792398559.5793042,
+    "ast_hash": "a7e077cf73357492f472c332514a5eae",
+    "semantic_hash": "a7e077cf73357492f472c332514a5eae"
+  },
+  "src/components/PitchVisualizer.tsx": {
+    "mtime": 1792341142.612544,
+    "seen": 1792398559.5793052,
+    "ast_hash": "108b2817823a5800a47101a73a13ab10",
+    "semantic_hash": "108b2817823a5800a47101a73a13ab10"
+  },
+  "src/components/ProgressBar.tsx": {
+    "mtime": 1792232135.2223291,
+    "seen": 1792398559.579306,
+    "ast_hash": "2bcf0c5fe3cd5dea39befa8f4664880e",
+    "semantic_hash": "2bcf0c5fe3cd5dea39befa8f4664880e"
+  },
+  "src/components/QuestionCard.tsx": {
+    "mtime": 1792234230.2512188,
+    "seen": 1792398559.5793078,
+    "ast_hash": "25a167e60d564ef84b4c797d84f5589d",
+    "semantic_hash": "25a167e60d564ef84b4c797d84f5589d"
+  },
+  "src/data/lessonsData.ts": {
+    "mtime": 1792234321.4461944,
+    "seen": 1792398559.5793087,
+    "ast_hash": "b7822406a3cc1763e6529f3964ad4912",
+    "semantic_hash": "b7822406a3cc1763e6529f3964ad4912"
+  },
+  "src/main.tsx": {
+    "mtime": 1792080553.2104383,
+    "seen": 1792398559.57931,
+    "ast_hash": "787e5a07efeb2bf6209d5937195f2f68",
+    "semantic_hash": "787e5a07efeb2bf6209d5937195f2f68"
+  },
+  "src/types/index.ts": {
+    "mtime": 1792231247.4287882,
+    "seen": 1792398559.5793111,
+    "ast_hash": "45b2a9b4225b04956a73c0b1623b4c87",
+    "semantic_hash": "45b2a9b4225b04956a73c0b1623b4c87"
+  },
+  "src/utils/audio.ts": {
+    "mtime": 1792234187.2077663,
+    "seen": 1792398559.579312,
+    "ast_hash": "e91e7c6b6bcd0e38ce969dd34af4ed7f",
+    "semantic_hash": "e91e7c6b6bcd0e38ce969dd34af4ed7f"
+  },
+  "src/utils/supabase.ts": {
+    "mtime": 1792322209.38648,
+    "seen": 1792398559.579313,
+    "ast_hash": "eb4d9e3b5675ba2b04d5e3eabbaaf1b5",
+    "semantic_hash": "eb4d9e3b5675ba2b04d5e3eabbaaf1b5"
+  },
+  "tailwind.config.js": {
+    "mtime": 1792314956.903291,
+    "seen": 1792398559.579314,
+    "ast_hash": "638f036aa20ef2021b315449f3dd70d7",
+    "semantic_hash": "638f036aa20ef2021b315449f3dd70d7"
+  },
+  "tsconfig.app.json": {
+    "mtime": 1792080553.2104383,
+    "seen": 1792398559.5793152,
+    "ast_hash": "5f2dafd737dea8a4ddcbb10f5113ac5a",
+    "semantic_hash": "5f2dafd737dea8a4ddcbb10f5113ac5a"
+  },
+  "tsconfig.json": {
+    "mtime": 1792080553.2114382,
+    "seen": 1792398559.5793164,
+    "ast_hash": "a3d39fa780ebff65444de257f291ce6c",
+    "semantic_hash": "a3d39fa780ebff65444de257f291ce6c"
+  },
+  "tsconfig.node.json": {
+    "mtime": 1792080553.2114382,
+    "seen": 1792398559.5793176,
+    "ast_hash": "f9cb81ddcea69ffdab672fc8c48dca66",
+    "semantic_hash": "f9cb81ddcea69ffdab672fc8c48dca66"
+  },
+  "vite.config.ts": {
+    "mtime": 1792080553.2124395,
+    "seen": 1792398559.5793185,
+    "ast_hash": "5d54447744c19ccd28638a5c668d15ea",
+    "semantic_hash": "5d54447744c19ccd28638a5c668d15ea"
+  }
+}

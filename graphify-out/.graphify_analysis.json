@@ -1,0 +1,365 @@
+{
+  "communities": {
+    "0": [
+      "ref_lucide_react",
+      "ref_react_dom",
+      "src_app",
+      "src_app_app",
+      "src_components_characterreviewscreen",
+      "src_components_characterreviewscreen_characterreviewscreen",
+      "src_components_characterreviewscreen_flashcard",
+      "src_components_hanzicanvas",
+      "src_components_hanzicanvas_characterdata",
+      "src_components_hanzicanvas_hanzicanvas",
+      "src_components_hanzicanvas_hanzicanvasprops",
+      "src_components_hanzicanvas_stroke",
+      "src_components_pathnavigator",
+      "src_components_pathnavigator_mock_nodes",
+      "src_components_pathnavigator_pathnavigator",
+      "src_components_pathnavigator_skillnode",
+      "src_components_pinyinbuilder",
+      "src_components_pinyinbuilder_pinyinbuilder",
+      "src_components_pinyinbuilder_pinyinbuilderprops",
+      "src_components_pinyinbuilder_tones",
+      "src_components_pitchvisualizer",
+      "src_components_pitchvisualizer_pitchvisualizer",
+      "src_components_pitchvisualizer_pitchvisualizerprops",
+      "src_data_lessonsdata",
+      "src_data_lessonsdata_lessons",
+      "src_index",
+      "src_main"
+    ],
+    "1": [
+      "ref_react",
+      "ref_utils_supabase",
+      "replica_components_hanzicanvas",
+      "replica_components_hanzicanvas_characterdata",
+      "replica_components_hanzicanvas_hanzicanvas",
+      "replica_components_hanzicanvas_hanzicanvasprops",
+      "replica_components_hanzicanvas_stroke",
+      "replica_components_pathnavigator",
+      "replica_components_pathnavigator_mock_nodes",
+      "replica_components_pathnavigator_pathnavigator",
+      "replica_components_pathnavigator_skillnode",
+      "replica_components_pinyinbuilder",
+      "replica_components_pinyinbuilder_pinyinbuilder",
+      "replica_components_pinyinbuilder_pinyinbuilderprops",
+      "replica_components_pinyinbuilder_tones",
+      "replica_components_pitchvisualizer",
+      "replica_components_pitchvisualizer_pitchvisualizer",
+      "replica_components_pitchvisualizer_pitchvisualizerprops",
+      "replica_hooks_usegamification",
+      "replica_hooks_usegamification_usegamification",
+      "replica_hooks_useprogress",
+      "replica_hooks_useprogress_useprogress",
+      "replica_hooks_usestroketrainer",
+      "replica_hooks_usestroketrainer_usestroketrainer",
+      "replica_hooks_useusersync",
+      "replica_hooks_useusersync_useusersync"
+    ],
+    "2": [
+      "eslint_config",
+      "package",
+      "package_name",
+      "package_private",
+      "package_type",
+      "package_version",
+      "ref_autoprefixer",
+      "ref_canvas_confetti",
+      "ref_eslint",
+      "ref_eslint_js",
+      "ref_eslint_plugin_react_hooks",
+      "ref_eslint_plugin_react_refresh",
+      "ref_globals",
+      "ref_postcss",
+      "ref_supabase_auth_helpers_react",
+      "ref_tailwindcss",
+      "ref_types_canvas_confetti",
+      "ref_types_node",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_typescript",
+      "ref_typescript_eslint",
+      "ref_vite",
+      "ref_vitejs_plugin_react",
+      "vite_config"
+    ],
+    "3": [
+      "tsconfig_app",
+      "tsconfig_app_compileroptions",
+      "tsconfig_app_compileroptions_allowarbitraryextensions",
+      "tsconfig_app_compileroptions_allowimportingtsextensions",
+      "tsconfig_app_compileroptions_erasablesyntaxonly",
+      "tsconfig_app_compileroptions_jsx",
+      "tsconfig_app_compileroptions_lib",
+      "tsconfig_app_compileroptions_module",
+      "tsconfig_app_compileroptions_moduledetection",
+      "tsconfig_app_compileroptions_moduleresolution",
+      "tsconfig_app_compileroptions_noemit",
+      "tsconfig_app_compileroptions_nofallthroughcasesinswitch",
+      "tsconfig_app_compileroptions_nounusedlocals",
+      "tsconfig_app_compileroptions_nounusedparameters",
+      "tsconfig_app_compileroptions_skiplibcheck",
+      "tsconfig_app_compileroptions_target",
+      "tsconfig_app_compileroptions_tsbuildinfofile",
+      "tsconfig_app_compileroptions_types",
+      "tsconfig_app_compileroptions_verbatimmodulesyntax",
+      "tsconfig_app_include"
+    ],
+    "4": [
+      "replica_components_lessoncontroller",
+      "replica_components_lessoncontroller_lessoncontroller",
+      "replica_components_lessoncontroller_lessoncontrollerprops",
+      "src_components_lessonscreen",
+      "src_components_lessonscreen_lessonscreen",
+      "src_components_lessonscreen_lessonscreenprops",
+      "src_components_progressbar",
+      "src_components_progressbar_progressbar",
+      "src_components_progressbar_progressbarprops",
+      "src_components_questioncard",
+      "src_components_questioncard_questioncard",
+      "src_components_questioncard_questioncardprops",
+      "src_types_index",
+      "src_types_index_lesson",
+      "src_types_index_question",
+      "src_types_index_questiontype",
+      "src_utils_audio",
+      "src_utils_audio_speak",
+      "src_utils_audio_stop"
+    ],
+    "5": [
+      "package_devdependencies",
+      "package_devdependencies_autoprefixer",
+      "package_devdependencies_eslint",
+      "package_devdependencies_eslint_js",
+      "package_devdependencies_eslint_plugin_react_hooks",
+      "package_devdependencies_eslint_plugin_react_refresh",
+      "package_devdependencies_globals",
+      "package_devdependencies_postcss",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_types_canvas_confetti",
+      "package_devdependencies_types_node",
+      "package_devdependencies_types_react",
+      "package_devdependencies_types_react_dom",
+      "package_devdependencies_typescript",
+      "package_devdependencies_typescript_eslint",
+      "package_devdependencies_vite",
+      "package_devdependencies_vitejs_plugin_react"
+    ],
+    "6": [
+      "tsconfig_node",
+      "tsconfig_node_compileroptions",
+      "tsconfig_node_compileroptions_allowimportingtsextensions",
+      "tsconfig_node_compileroptions_erasablesyntaxonly",
+      "tsconfig_node_compileroptions_lib",
+      "tsconfig_node_compileroptions_module",
+      "tsconfig_node_compileroptions_moduledetection",
+      "tsconfig_node_compileroptions_noemit",
+      "tsconfig_node_compileroptions_nofallthroughcasesinswitch",
+      "tsconfig_node_compileroptions_nounusedlocals",
+      "tsconfig_node_compileroptions_nounusedparameters",
+      "tsconfig_node_compileroptions_skiplibcheck",
+      "tsconfig_node_compileroptions_target",
+      "tsconfig_node_compileroptions_tsbuildinfofile",
+      "tsconfig_node_compileroptions_types",
+      "tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "tsconfig_node_include"
+    ],
+    "7": [
+      "package_dependencies",
+      "package_dependencies_canvas_confetti",
+      "package_dependencies_lucide_react",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_dependencies_supabase_auth_helpers_react",
+      "package_dependencies_supabase_supabase_js"
+    ],
+    "8": [
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_dev",
+      "package_scripts_lint",
+      "package_scripts_preview"
+    ],
+    "9": [
+      "ref_supabase_supabase_js",
+      "replica_test_supabase",
+      "replica_test_supabase_testsupabase",
+      "src_utils_supabase",
+      "src_utils_supabase_supabase"
+    ],
+    "10": [
+      "tsconfig",
+      "tsconfig_files",
+      "tsconfig_references"
+    ],
+    "11": [
+      "tailwind_config",
+      "tailwindcss"
+    ],
+    "12": [
+      "postcss_config"
+    ]
+  },
+  "cohesion": {
+    "0": 0.11396011396011396,
+    "1": 0.08923076923076922,
+    "2": 0.1,
+    "3": 0.1,
+    "4": 0.19883040935672514,
+    "5": 0.11764705882352941,
+    "6": 0.11764705882352941,
+    "7": 0.2857142857142857,
+    "8": 0.4,
+    "9": 0.5,
+    "10": 0.6666666666666666,
+    "11": 1.0,
+    "12": 1.0
+  },
+  "gods": [
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 20
+    },
+    {
+      "id": "tsconfig_app_compileroptions",
+      "label": "compilerOptions",
+      "degree": 18
+    },
+    {
+      "id": "tsconfig_node_compileroptions",
+      "label": "compilerOptions",
+      "degree": 15
+    },
+    {
+      "id": "src_app_app",
+      "label": "App()",
+      "degree": 8
+    },
+    {
+      "id": "src_utils_audio_speak",
+      "label": "speak()",
+      "degree": 7
+    },
+    {
+      "id": "src_components_lessonscreen_lessonscreen",
+      "label": "LessonScreen()",
+      "degree": 6
+    },
+    {
+      "id": "src_types_index_lesson",
+      "label": "Lesson",
+      "degree": 5
+    },
+    {
+      "id": "src_types_index_question",
+      "label": "Question",
+      "degree": 5
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "degree": 5
+    },
+    {
+      "id": "src_components_questioncard_questioncard",
+      "label": "QuestionCard()",
+      "degree": 4
+    }
+  ],
+  "surprises": [
+    {
+      "source": "LessonControllerProps",
+      "target": "Question",
+      "source_files": [
+        "replica/components/LessonController.tsx",
+        "src/types/index.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `LessonControllerProps` unexpectedly reaches hub `Question`"
+    },
+    {
+      "source": "LessonScreenProps",
+      "target": "Lesson",
+      "source_files": [
+        "src/components/LessonScreen.tsx",
+        "src/types/index.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "peripheral node `LessonScreenProps` unexpectedly reaches hub `Lesson`"
+    },
+    {
+      "source": "QuestionCardProps",
+      "target": "Question",
+      "source_files": [
+        "src/components/QuestionCard.tsx",
+        "src/types/index.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "peripheral node `QuestionCardProps` unexpectedly reaches hub `Question`"
+    },
+    {
+      "source": "App()",
+      "target": "LessonScreen()",
+      "source_files": [
+        "src/App.tsx",
+        "src/components/LessonScreen.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "App()",
+      "target": "CharacterReviewScreen()",
+      "source_files": [
+        "src/App.tsx",
+        "src/components/CharacterReviewScreen.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `react` connect `Learning Component Library` to `Character Review UI`, `Build and Lint Config`, `Lesson Management UI`?",
+      "why": "High betweenness centrality (0.360) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `autoprefixer`, `postcss`, `@supabase/auth-helpers-react` to the rest of the system?",
+      "why": "9 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Character Review UI` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.11396011396011396 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `devDependencies` connect `Development Dependencies` to `Build and Lint Config`?",
+      "why": "High betweenness centrality (0.131) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Learning Component Library` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08923076923076922 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `dependencies` connect `Project Dependencies` to `Build and Lint Config`?",
+      "why": "High betweenness centrality (0.051) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Build and Lint Config` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
